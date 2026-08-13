@@ -1,0 +1,181 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "about": "About",
+    "contact": "Contact",
+    "startProject": "START PROJECT",
+    "letsTalk": "LET'S TALK",
+    "getInTouch": "Get in touch",
+    "socials": "Socials"
+  },
+  "hero": {
+    "badge": "Global Digital Agency",
+    "titlePart1": "Design & Tech Agency Helping Brands Become",
+    "titlePart2": "Top 1%",
+    "subtitle": "12 years of design-driven development for B2B products",
+    "bookCall": "BOOK A CALL"
+  },
+  "showcase": {
+    "title1": "WE BUILD DIGITAL PRODUCTS THAT DRIVE",
+    "title2": "GROWTH",
+    "desc": "Custom websites, business software, and AI solutions crafted for ambitious brands.",
+    "bookCall": "BOOK A CALL"
+  },
+  "aboutVideo": {
+    "reel": "CODFY Reel",
+    "pause": "PAUSE REEL",
+    "play": "PLAY REEL",
+    "title1": "We don't just write code,",
+    "title2": "we build ecosystems.",
+    "desc": "Our mission is to unlock the absolute digital potential of brands, empowering them with a competitive edge through state-of-the-art technological infrastructure."
+  },
+  "portfolio": {
+    "our": "OUR",
+    "portfolio": "PORTFOLIO",
+    "seeAll": "SEE ALL WORK",
+    "selected": "SELECTED",
+    "works": "WORKS",
+    "desc": "PREMIUM DIGITAL SOLUTIONS FOR GLOBAL AND LOCAL BRANDS."
+  },
+  "cta": {
+    "haveA": "HAVE A",
+    "project": "PROJECT",
+    "inMind": "IN MIND?",
+    "share": "SHARE YOUR PROJECT",
+    "withUs": "WITH US!"
+  },
+  "globalNetwork": {
+    "global": "GLOBAL",
+    "network": "NETWORK",
+    "desc": "WE BUILD DIGITAL PRODUCTS THAT DRIVE GROWTH ACROSS BORDERS AND CONTINENTS."
+  },
+  "advantages": {
+    "keyClients": "Key Clients",
+    "keyClientsDesc": "We maintain continuous partnerships with leading local and international brands.",
+    "expertTeam": "Expert Team",
+    "expertTeamDesc": "A highly dedicated team of experienced designers, developers, and strategists.",
+    "yearsExperience": "Years Experience",
+    "yearsExperienceDesc": "Proven ourselves as a highly reliable partner in crafting digital products."
+  },
+  "hugeCard": {
+    "codfyTech": "Codfy Tech",
+    "showreel": "SHOWREEL",
+    "clickToPlay": "Click to Play"
+  },
+  "internship": {
+    "joinOur": "JOIN OUR",
+    "internship": "INTERNSHIP",
+    "program": "PROGRAM!",
+    "question": "Think you’d be a great fit?",
+    "descPart1": "Send your information and portfolio to ",
+    "descPart2": ". If you’re ambitious, curious, and ready to grow fast, we’d love to hear from you.",
+    "andYou": "and YOU!"
+  },
+  "footer": {
+    "stayInTheLoop": "Stay in the loop",
+    "subscribeDesc": "Subscribe to our newsletter and be the first to know about our latest news, projects, and updates.",
+    "emailPlaceholder": "Your email address",
+    "subscribe": "Subscribe",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "portfolio": "Portfolio",
+    "contact": "Contact",
+    "services": "Services",
+    "aiAgents": "AI Agents",
+    "websites": "Websites",
+    "mobileApps": "Mobile Apps",
+    "ecommerce": "E-commerce",
+    "brandingDesign": "Branding & Design",
+    "crmAutomation": "CRM & Automation",
+    "globalOffices": "Global Offices",
+    "codfyAz": "Codfy Azerbaijan",
+    "codfySe": "Codfy Sweden",
+    "codfyUae": "Codfy UAE",
+    "soon": "(soon)",
+    "connect": "Connect",
+    "rightsReserved": "© 2026 All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "servicesList": {
+    "our": "OUR",
+    "directions": "DIRECTIONS",
+    "aiAgents": "AI Agents",
+    "aiAgentsDesc": "Intelligent AI systems that understand requests, recognize intent, and execute actions across your business channels, turning conversations into automated workflows.",
+    "websites": "Websites",
+    "websitesDesc": "High-performance digital experiences designed around your brand, built to engage audiences, communicate value, and turn visitors into customers.",
+    "ecommerce": "E-commerce",
+    "ecommerceDesc": "Scalable digital commerce platforms that connect products, customers, payments, and operations into seamless experiences built to drive growth.",
+    "mobileApps": "Mobile Apps",
+    "mobileAppsDesc": "Purpose-built mobile experiences that bring your products and services closer to customers through intuitive interfaces, powerful functionality, and seamless performance.",
+    "crm": "CRM",
+    "crmDesc": "Connected customer relationship systems that unify leads, sales, communication, and customer data into one intelligent platform for stronger relationships and better decisions.",
+    "automation": "Business Automation",
+    "automationDesc": "Intelligent workflows that connect your tools, eliminate repetitive processes, and automate everyday operations so your business can move faster with less manual work.",
+    "marketing": "Digital Marketing",
+    "marketingDesc": "Data-driven digital strategies that increase visibility, attract the right audiences, generate qualified leads, and turn attention into measurable business growth.",
+    "motionDesign": "Motion Design",
+    "motionDesignDesc": "Dynamic visual experiences that bring brands, products, interfaces, and ideas to life through purposeful animation, storytelling, and movement.",
+    "branding": "Branding & Design",
+    "brandingDesc": "Distinctive visual identities that transform ideas into recognizable brands through strategy, design systems, and creative experiences built to last.",
+    "startup": "Startup Support",
+    "startupDesc": "From validating ideas to building products and launching businesses, we provide startups with the strategy, technology, design, and digital infrastructure needed to turn ambitious ideas into scalable ventures."
+  },
+  "tags": {
+    "uxDesign": "UX DESIGN",
+    "uiDesign": "UI DESIGN",
+    "webDev": "WEB DEVELOPMENT",
+    "techSupport": "TECH SUPPORT",
+    "crm": "CRM",
+    "eCommerce": "E-COMMERCE",
+    "shopify": "SHOPIFY",
+    "aiAutomation": "AI AUTOMATION",
+    "motionDesign": "Motion Design",
+    "threeDAnimation": "3D Animation",
+    "afterEffects": "After Effects",
+    "voiceAgents": "Voice Agents",
+    "erp": "ERP"
+  },
+  "wakeup": {
+    "title1": "AI VOICE AGENTS",
+    "title2": "THAT NEVER SLEEP."
+  },
+  "about": {
+    "part1": "The agency helps leaders to build and transform ",
+    "products": "products",
+    "brandExperiences": "brand experiences",
+    "part2": " and customer relationships.",
+    "radical": "RADICAL SIMPLICITY",
+    "relentless": "RELENTLESS EXECUTION",
+    "uncompromising": "UNCOMPROMISING QUALITY",
+    "obsessive": "OBSESSIVE CRAFTSMANSHIP",
+    "corePillars": "The core pillars of our digital engineering and creative expertise."
+  },
+  "contact": {
+    "lets": "LET'S",
+    "talk": "TALK",
+    "lookingForChallenges": "WE ARE ALWAYS LOOKING FOR NEW CHALLENGES AND INTERESTING PARTNERS. ALSO, WE LOVE TO SAY HELLO.",
+    "email": "Email",
+    "headquarters": "Headquarters",
+    "bakuAzerbaijan": "Baku, Azerbaijan",
+    "globalOperations": "Global Operations",
+    "legal": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "q1": "01. What's your name?",
+    "p1": "John Doe *",
+    "q2": "02. Where can we reach you?",
+    "p2": "hello@company.com *",
+    "q3": "03. What are you looking for?",
+    "p3": "Web Design, App, AI...",
+    "q4": "04. Tell us about your project",
+    "p4": "The details...",
+    "sendMessage": "Send Message",
+    "preferInstant": "Or prefer an instant answer?",
+    "projectManager": "Project Manager",
+    "onlineStatus": "ONLINE • REPLIES INSTANTLY",
+    "startChat": "START CHAT"
+  }
+}

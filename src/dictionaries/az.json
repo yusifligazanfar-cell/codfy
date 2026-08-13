@@ -1,0 +1,181 @@
+{
+  "nav": {
+    "home": "Ana Səhifə",
+    "services": "Xidmətlər",
+    "portfolio": "Portfolio",
+    "about": "Haqqımızda",
+    "contact": "Əlaqə",
+    "startProject": "LAYİHƏYƏ BAŞLA",
+    "letsTalk": "BİZİMLƏ ƏLAQƏ",
+    "getInTouch": "Əlaqə saxlayın",
+    "socials": "Sosial şəbəkələr"
+  },
+  "hero": {
+    "badge": "Qlobal Rəqəmsal Agentlik",
+    "titlePart1": "Brendlərin inkişafına kömək edən Dizayn və Texnologiya Agentliyi",
+    "titlePart2": "İlk 1%",
+    "subtitle": "B2B məhsulları üçün 12 illik dizayna əsaslanan inkişaf",
+    "bookCall": "GÖRÜŞ TƏYİN ET"
+  },
+  "showcase": {
+    "title1": "BÖYÜMƏYƏ TƏKAN VERƏN RƏQƏMSAL MƏHSULLAR",
+    "title2": "YARADIRIQ",
+    "desc": "İddialı brendlər üçün hazırlanmış xüsusi vebsaytlar, biznes proqram təminatı və süni intellekt həlləri.",
+    "bookCall": "GÖRÜŞ TƏYİN ET"
+  },
+  "aboutVideo": {
+    "reel": "CODFY Reel",
+    "pause": "PAUSE REEL",
+    "play": "PLAY REEL",
+    "title1": "Biz sadəcə kod yazmırıq,",
+    "title2": "ekosistemlər qururuq.",
+    "desc": "Missiyamız brendlərin mütləq rəqəmsal potensialını açmaq, onlara ən son texnoloji infrastruktur vasitəsilə rəqabət üstünlüyü qazandırmaqdır."
+  },
+  "portfolio": {
+    "our": "BİZİM",
+    "portfolio": "PORTFOLİOMUZ",
+    "seeAll": "BÜTÜN IŞLƏRƏ BAX",
+    "selected": "SEÇILMIŞ",
+    "works": "IŞLƏR",
+    "desc": "QLOBAL VƏ YERLI BRENDLƏR ÜÇÜN PREMIUM RƏQƏMSAL HƏLLƏR."
+  },
+  "cta": {
+    "haveA": "AĞLINIZDA",
+    "project": "LAYİHƏ",
+    "inMind": "VAR?",
+    "share": "LAYİHƏNİZİ BİZİMLƏ",
+    "withUs": "BÖLÜŞÜN!"
+  },
+  "globalNetwork": {
+    "global": "QLOBAL",
+    "network": "ŞƏBƏKƏ",
+    "desc": "SƏRHƏDLƏRİ AŞAN VƏ QİTƏLƏR ARASI BÖYÜMƏYƏ TƏKAN VERƏN RƏQƏMSAL MƏHSULLAR YARADIRIQ."
+  },
+  "advantages": {
+    "keyClients": "Əsas Müştərilər",
+    "keyClientsDesc": "Aparıcı yerli və beynəlxalq brendlərlə davamlı tərəfdaşlığımızı qoruyub saxlayırıq.",
+    "expertTeam": "Ekspert Komanda",
+    "expertTeamDesc": "Təcrübəli dizaynerlər, tərtibatçılar və strateqlərdən ibarət yüksək sədaqətli komanda.",
+    "yearsExperience": "İllik Təcrübə",
+    "yearsExperienceDesc": "Rəqəmsal məhsulların hazırlanmasında özümüzü yüksək etibarlı tərəfdaş kimi təsdiqləmişik."
+  },
+  "hugeCard": {
+    "codfyTech": "Codfy Tech",
+    "showreel": "VİDEOÇARX",
+    "clickToPlay": "İZLƏMƏK ÜÇÜN KLİKLƏYİN"
+  },
+  "internship": {
+    "joinOur": "TƏCRÜBƏ",
+    "internship": "PROQRAMIMIZA",
+    "program": "QOŞULUN!",
+    "question": "Mükəmməl uyğunlaşacağınızı düşünürsünüz?",
+    "descPart1": "Məlumatlarınızı və portfolionuzu ",
+    "descPart2": " ünvanına göndərin. Əgər ambisiyalı, maraqlı və sürətlə böyüməyə hazırsınızsa, sizinlə tanış olmaqdan məmnun olarıq.",
+    "andYou": "və SƏN!"
+  },
+  "footer": {
+    "stayInTheLoop": "Yeniliklərdən xəbərdar olun",
+    "subscribeDesc": "Xəbər bülletenimizə abunə olun və ən son xəbərlərimiz, layihələrimiz və yeniliklərimiz barədə ilk siz xəbərdar olun.",
+    "emailPlaceholder": "Elektron poçt ünvanınız",
+    "subscribe": "Abunə ol",
+    "company": "Şirkət",
+    "aboutUs": "Haqqımızda",
+    "portfolio": "Portfolio",
+    "contact": "Əlaqə",
+    "services": "Xidmətlər",
+    "aiAgents": "AI Agentlər",
+    "websites": "Vebsaytlar",
+    "mobileApps": "Mobil Tətbiqlər",
+    "ecommerce": "E-ticarət",
+    "brandingDesign": "Breyndinq və Dizayn",
+    "crmAutomation": "CRM və Avtomatlaşdırma",
+    "globalOffices": "Qlobal Ofislər",
+    "codfyAz": "Codfy Azərbaycan",
+    "codfySe": "Codfy İsveç",
+    "codfyUae": "Codfy BƏƏ",
+    "soon": "(tezliklə)",
+    "connect": "Əlaqə Yarat",
+    "rightsReserved": "© 2026 Bütün hüquqlar qorunur.",
+    "privacyPolicy": "Məxfilik Siyasəti",
+    "termsOfService": "Xidmət Şərtləri"
+  },
+  "servicesList": {
+    "our": "BIZIM",
+    "directions": "ISTIQAMƏTLƏR",
+    "aiAgents": "AI Agentlər",
+    "aiAgentsDesc": "Sorğuları anlayan, məqsədi tanıyan və biznes kanallarınız üzrə hərəkətləri yerinə yetirən, söhbətləri avtomatlaşdırılmış iş axınlarına çevirən intellektual süni intellekt sistemləri.",
+    "websites": "Vebsaytlar",
+    "websitesDesc": "Brendiniz üçün nəzərdə tutulmuş, auditoriyanı cəlb etmək, dəyəri çatdırmaq və ziyarətçiləri müştəriyə çevirmək üçün qurulmuş yüksək performanslı rəqəmsal təcrübələr.",
+    "ecommerce": "E-ticarət",
+    "ecommerceDesc": "Məhsulları, müştəriləri, ödənişləri və əməliyyatları böyüməyə təkan verən fasiləsiz təcrübələrə birləşdirən genişlənə bilən rəqəmsal ticarət platformaları.",
+    "mobileApps": "Mobil Tətbiqlər",
+    "mobileAppsDesc": "İntuitiv interfeyslər, güclü funksionallıq və qüsursuz performans vasitəsilə məhsul və xidmətlərinizi müştərilərə daha da yaxınlaşdıran xüsusi mobil təcrübələr.",
+    "crm": "CRM",
+    "crmDesc": "Daha güclü əlaqələr və daha yaxşı qərarlar üçün potensial müştəriləri, satışları, kommunikasiya və müştəri məlumatlarını vahid intellektual platformada birləşdirən müştəri münasibətləri sistemləri.",
+    "automation": "Biznes Avtomatlaşdırması",
+    "automationDesc": "Alətlərinizi birləşdirən, təkrarlanan prosesləri aradan qaldıran və gündəlik əməliyyatları avtomatlaşdıran intellektual iş axınları, beləliklə biznesiniz daha az əl işi ilə daha sürətli hərəkət edə bilər.",
+    "marketing": "Rəqəmsal Marketinq",
+    "marketingDesc": "Görünürlüyü artıran, düzgün auditoriyanı cəlb edən, potensial müştərilər yaradan və diqqəti ölçülə bilən biznes artımına çevirən məlumatlara əsaslanan rəqəmsal strategiyalar.",
+    "motionDesign": "Motion Dizayn",
+    "motionDesignDesc": "Məqsədli animasiya, hekayə və hərəkət vasitəsilə brendləri, məhsulları, interfeysləri və ideyaları canlandıran dinamik vizual təcrübələr.",
+    "branding": "Brendinq və Dizayn",
+    "brandingDesc": "Strategiya, dizayn sistemləri və uzun ömürlü yaradıcı təcrübələr vasitəsilə ideyaları tanınan brendlərə çevirən fərqli vizual kimliklər.",
+    "startup": "Startap Dəstəyi",
+    "startupDesc": "İdeyaların təsdiqlənməsindən tutmuş məhsulların yaradılmasına və bizneslərin işə salınmasına qədər, iddialı ideyaları genişlənə bilən müəssisələrə çevirmək üçün startapları lazımi strategiya, texnologiya, dizayn və rəqəmsal infrastrukturla təmin edirik."
+  },
+  "tags": {
+    "uxDesign": "UX DIZAYN",
+    "uiDesign": "UI DIZAYN",
+    "webDev": "VEB PROQRAMLAŞDIRMA",
+    "techSupport": "TEXNİKİ DƏSTƏK",
+    "crm": "CRM",
+    "eCommerce": "E-COMMERCE",
+    "shopify": "SHOPIFY",
+    "aiAutomation": "AI AUTOMATION",
+    "motionDesign": "MOUŞN DİZAYN",
+    "threeDAnimation": "3D ANİMASİYA",
+    "afterEffects": "AFTER EFFECTS",
+    "voiceAgents": "SƏS AQRNTLƏRİ",
+    "erp": "ERP"
+  },
+  "wakeup": {
+    "title1": "SÜNİ İNTELLEKT SƏS",
+    "title2": "HEÇ VAXT YATMAYAN."
+  },
+  "about": {
+    "part1": "Agentlik liderlərə ",
+    "products": "məhsulları",
+    "brandExperiences": "brend təcrübələrini",
+    "part2": " və müştəri əlaqələrini qurmağa və inkişaf etdirməyə kömək edir.",
+    "radical": "RADİKAL SADƏLİK",
+    "relentless": "FASİLƏSİZ İCRA",
+    "uncompromising": "GÜZƏŞTSİZ KEYFİYYƏT",
+    "obsessive": "MÜKƏMMƏL SƏNƏTKARLIQ",
+    "corePillars": "Rəqəmsal mühəndislik və yaradıcı təcrübəmizin əsas sütunları."
+  },
+  "contact": {
+    "lets": "GƏL",
+    "talk": "DANIŞAQ",
+    "lookingForChallenges": "BİZ HƏMİŞƏ YENİ ÇAĞIRIŞLAR VƏ MARAQLI TƏRƏFDAŞLAR AXTARIŞINDAYIQ. HƏMÇİNİN, SALAMLAŞMAĞI DA SEVİRİK.",
+    "email": "E-poçt",
+    "headquarters": "Baş ofis",
+    "bakuAzerbaijan": "Bakı, Azərbaycan",
+    "globalOperations": "Qlobal Əməliyyatlar",
+    "legal": "Hüquqi",
+    "privacyPolicy": "Məxfilik Siyasəti",
+    "termsOfService": "Xidmət Şərtləri",
+    "q1": "01. Adınız nədir?",
+    "p1": "Ad Soyad *",
+    "q2": "02. Sizinlə necə əlaqə saxlayaq?",
+    "p2": "salam@sirket.com *",
+    "q3": "03. Nə axtarırsınız?",
+    "p3": "Veb Dizayn, Tətbiq, Süni İntellekt...",
+    "q4": "04. Layihəniz haqqında bizə danışın",
+    "p4": "Detallar...",
+    "sendMessage": "Mesaj Göndər",
+    "preferInstant": "Yoxsa dərhal cavab almaq istəyirsiniz?",
+    "projectManager": "Layihə Meneceri",
+    "onlineStatus": "ONLAYNDIR • DƏRHAL CAVAB VERİR",
+    "startChat": "SÖHBƏTƏ BAŞLA"
+  }
+}

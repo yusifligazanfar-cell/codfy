@@ -1,0 +1,183 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-red: #DD3636;
+  --color-brand-yellow: #fdc448;
+  --color-brand-dark: #0F172A;
+  --color-brand-light: #F8FAFC;
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-sans), ui-monospace, SFMono-Regular, monospace;
+  --font-serif: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-geist: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-suisse: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-syne: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-space: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #02021e;
+  --blue-dark: #02021e;
+  --32: 2rem;
+  --blue: #3719ca;
+  --white: white;
+  --8: .5rem;
+  --grey-light: #f5f5f7;
+  --24: 1.5rem;
+  --yellow: #fdc448;
+  --blue-dark-30: #02021e4d;
+  --120: 8rem;
+  --40: 2.5rem;
+  --0: 0rem;
+  --grey-medium: #9a9aa5;
+  --1: .0625rem;
+  --white-60: #fff9;
+  --48: 3rem;
+  --16: 1rem;
+  --transparent: transparent;
+  --80: 5rem;
+  --14: .875rem;
+  --12: .75rem;
+  --64: 4rem;
+  --white-30: #ffffff4d;
+  --56: 3.5rem;
+  --20: 1.25rem;
+  --grey-dark: #6d6978;
+  --34: 2.125rem;
+  --turquoise: #007ebb;
+  --red: #ff0303;
+  --4: .25rem;
+  --blue-light: #255fef;
+  --blue-dark-50: #02021e80;
+  --18: 1.125rem;
+  --white-70: #ffffffb3;
+  --28: 1.75rem;
+  --2: .125rem;
+  --blue-dark-60: #02021e99;
+  --10: .625rem;
+  --grey: #cdcdcd;
+  --blue-dark-70: #02021eb3;
+  --blue-link: #0000eb;
+  --white-20: #fff3;
+  --19: 1.1875rem;
+  --blue-dark-10: #02021e1a;
+  --100: 6.25rem;
+  --blue-dark2: #0f2235;
+  --mint-green: #29b284;
+  --night-blue: #191e52;
+  --royal-blue: #3827c7;
+  --blue-grayish-light: #dae4fc;
+  --tomato: #eb4e3d;
+  --purple: #7057d6;
+  --carbon-black: #2f2f2f;
+  --dark-coffee: #332209;
+}
+
+html, body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+/* Base styles for dark mode */
+body {
+  background-color: var(--background);
+}
+
+@keyframes blob {
+  0% { transform: translate(0px, 0px) scale(1); }
+  33% { transform: translate(30px, -50px) scale(1.1); }
+  66% { transform: translate(-20px, 20px) scale(0.9); }
+  100% { transform: translate(0px, 0px) scale(1); }
+}
+
+@utility animate-blob {
+  animation: blob 15s infinite alternate ease-in-out;
+}
+
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+@utility animate-marquee {
+  animation: marquee 25s linear infinite;
+}
+
+@keyframes marquee-reverse {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+@utility animate-marquee-reverse {
+  animation: marquee-reverse 25s linear infinite;
+}
+
+@utility animation-delay-2000 {
+  animation-delay: 2s;
+}
+
+@utility animation-delay-4000 {
+  animation-delay: 4s;
+}
+
+@utility animation-delay-6000 {
+  animation-delay: 6s;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9; 
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8; 
+}
+
+/* Glassmorphism utility classes (Light Theme) */
+@utility glass {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+@utility glass-card {
+  background: linear-gradient(145deg, rgba(255, 255, 255, 0.9) 0%, rgba(248, 250, 252, 0.6) 100%);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.05);
+}
+
+/* Text Gradients */
+@utility text-gradient {
+  background: linear-gradient(to right, #0F172A, #475569);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+@utility text-gradient-brand {
+  background: linear-gradient(to right, var(--color-brand-red), var(--color-brand-yellow));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
